@@ -23,6 +23,7 @@ with the combined systolic blood pressure reading.
 
 
 Method
+
 First, I fitted a multiple linear regression with all 17 variables. We need to know how
 many observations have the potential to influence the position of the regression line,
 so I did the model diagnostics in order to find the leverage points, cook’s distance,
@@ -55,6 +56,7 @@ AIC.
 
 
 Result
+
 After fitting the multiple linear regression with all 17 variables, it seems no
 relationship between all these variables
 and the combined systolic blood pressure
@@ -88,6 +90,7 @@ better model.
 
 
 Discussion
+
 Results from this study indicated that on average, the gender difference has the
 greatest impact on the combined systolic blood pressure reading. BMI also has a great
 impact on the combined systolic blood pressure reading. For one increase in BMI, on
